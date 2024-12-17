@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Es una aplicación diseñada para administrar las reservas en un hostel, dirigido especialmente a estudiantes de la carrera Tecnólogo en Informática (TecnoPackers) que desean disfrutar de precios preferenciales en sus vacaciones. El sistema permite gestionar los huéspedes, las habitaciones, y las reservas, con una estructura de precios y descuentos según el tipo de reserva.
+Es una aplicación diseñada para administrar las reservas en un hostel. El sistema permite gestionar los huéspedes, las habitaciones, y las reservas, con una estructura de precios y descuentos según el tipo de reserva.
 
 Cada huésped tiene información relevante, como su email (que lo identifica), nombre, y si es "Finger" o no. Las habitaciones se identifican por un número y tienen un precio por noche y una capacidad específica. Las reservas pueden ser individuales o grupales, con diferentes estados y costos asociados.
 
